@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.active {
+    color: blue;
+    font-weight: bold;
+    background-color: rgb(231, 231, 231);
+    color: rgb(64, 63, 63);
+  }
